@@ -38,16 +38,16 @@ Execute the program using runserver command.
         <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
             <caption><b>SLOT TIME TABLE - S Madhumitha (25014660)</b></caption>
             <tr align="center">
-                <th bgcolor="yellow">Day/Time</th>
-                <th bgcolor="yellow">Monday</th>
-                <th bgcolor="yellow">Tuesday</th>
-                <th bgcolor="yellow">Wednesday</th>
-                <th bgcolor="yellow">Thursday</th>
-                <th bgcolor="yellow">Friday</th>
-                <th bgcolor="yellow">Saturday</th>
+                <th bgcolor="pink">Day/Time</th>
+                <th bgcolor="pink">Monday</th>
+                <th bgcolor="pink">Tuesday</th>
+                <th bgcolor="pink">Wednesday</th>
+                <th bgcolor="pink">Thursday</th>
+                <th bgcolor="pink">Friday</th>
+                <th bgcolor="pink">Saturday</th>
             </tr>
             <tr align="center">
-                <th bgcolor="yellow">8-10</th>
+                <th bgcolor="pink">8-10</th>
                 <td >FREE SLOT</td>
                 <td>FREE SLOT</td>
                 <td>COMMUNICATIVE ENGLISH</td>
@@ -56,7 +56,7 @@ Execute the program using runserver command.
                 <td>FREE SLOT</td>
             </tr>
             <tr align="center">
-            <th bgcolor="yellow">10-12</th>
+            <th bgcolor="pink">10-12</th>
             <td>COMMUNICATIVE ENGLISH</td>
             <td>FREE SLOT</td>
             <td>FUNDAMENTALS OF WEB APPLICATIONS</td>
@@ -65,11 +65,11 @@ Execute the program using runserver command.
             <td>FUNDAMENTALS OF WEB APPLICATIONS</td>
             </tr>
             <tr>
-                <th bgcolor="yellow">12-1</th>
+                <th bgcolor="pink">12-1</th>
                 <td colspan="5" align="center">L U N C H</td>
             </tr>
             <tr align="center">
-            <th bgcolor="yellow">1-3</th>
+            <th bgcolor="pink">1-3</th>
             <td>FREE SLOT</td>
             <td>COMMUNICATIVE ENGLISH</td>
             <td>FREE SLOT</td>
@@ -78,7 +78,7 @@ Execute the program using runserver command.
             <td>COMMUNICATIVE ENGLISH</td>
             </tr>
             <tr align="center">
-            <th bgcolor="yellow">3-5</th>
+            <th bgcolor="pink">3-5</th>
             <td>FUNDAMENTALS OF C PROGRAMMING</td>
             <td>FUNDAMENTALS OF C PROGRAMMING</td>
             <td>FUNDAMENTALS OF C PROGRAMMING</td>
@@ -105,17 +105,12 @@ Execute the program using runserver command.
           <td> Fundamentals of C Programming (C Program)</td>
           </tr>
           <tr> 
-          <td align="center">3.</td> 
-          <td align="center">19EN101</td>
-          <td> Communicative English (CE)</td>
-          </tr>
-        </table>
-    </body>
-    </html>
- ~~~~
+          <td align="center">3.</td>
+~~~
 
 ## Output
-<img width="1920" height="1020" alt="Screenshot 2025-11-28 161710" src="https://github.com/user-attachments/assets/730c3fb9-9624-41ce-ba01-d8dd182f5509" />
+<img width="1907" height="959" alt="Screenshot 2025-12-05 110053" src="https://github.com/user-attachments/assets/83086e4a-9594-46ee-b4a3-551a2b3be36f" />
+
 
 <img width="1920" height="1020" alt="Screenshot 2025-11-28 162351" src="https://github.com/user-attachments/assets/92a91077-60f0-46eb-88b2-dab2865c36de" />
 
